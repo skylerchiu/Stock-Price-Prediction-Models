@@ -1,2 +1,9 @@
 # Stock-Price-Prediction-Models
-A linear regression model build on the sci-kit learn library, and an in-progress time-series LSTM model
+A Jupyter Notebook of different prediction models that can be used to predict stock prices. 
+
+##Current models
+*Linear Regression
+*Decision Tree Regression
+
+#Ongoing:
+LSTM model with Keras
